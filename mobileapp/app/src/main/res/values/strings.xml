@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mobile App</string>
+    <string name="get_users">Get Users</string>
+    <string name="add_new_user">Add new user</string>
+</resources>

@@ -1,0 +1,9 @@
+/Users/mqondisindlovu/Documents/code/interview/api/src/main/java/com/example/interview/dto/UserResponseDto.java
+/Users/mqondisindlovu/Documents/code/interview/api/src/main/java/com/example/interview/dto/UserRequestDto.java
+/Users/mqondisindlovu/Documents/code/interview/api/src/main/java/com/example/interview/exception/ResourceNotFoundException.java
+/Users/mqondisindlovu/Documents/code/interview/api/src/main/java/com/example/interview/repository/UserRepository.java
+/Users/mqondisindlovu/Documents/code/interview/api/src/main/java/com/example/interview/model/User.java
+/Users/mqondisindlovu/Documents/code/interview/api/src/main/java/com/example/interview/InterviewApplication.java
+/Users/mqondisindlovu/Documents/code/interview/api/src/main/java/com/example/interview/exception/GlobalExceptionHandler.java
+/Users/mqondisindlovu/Documents/code/interview/api/src/main/java/com/example/interview/exception/ErrorResponse.java
+/Users/mqondisindlovu/Documents/code/interview/api/src/main/java/com/example/interview/controller/UserController.java
